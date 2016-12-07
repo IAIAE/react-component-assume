@@ -1,0 +1,25 @@
+{
+  "name": "react-component-assume",
+  "version": "1.0.0",
+  "description": "to create a component with condition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAIAE/react-component-assume.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "if",
+    "condition"
+  ],
+  "author": "iaiae",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAIAE/react-component-assume/issues"
+  },
+  "homepage": "https://github.com/IAIAE/react-component-assume#readme"
+}

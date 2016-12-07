@@ -1,3 +1,3 @@
-module.export = function(item){
+module.exports = function(item){
     return item?item:function(){return false};
 }
