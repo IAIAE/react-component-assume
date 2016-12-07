@@ -1,6 +1,6 @@
 {
   "name": "react-component-assume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "to create a component with condition",
   "main": "index.js",
   "scripts": {

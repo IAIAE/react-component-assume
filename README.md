@@ -1,4 +1,22 @@
 # react-component-assume
+##usage
+```
+npm install --save-dev react-component-assume
+```
+```javascript
+import assume from 'react-component-assume';
+
+var isShow = false;
+var MaybeView = assume(isShow && DialogView);
+
+//use the Component as you like:
+ReactDOM.render(
+    <MaybeView name="maybe" />,
+    document.getElementById('root')
+);
+```
+
+##why assume?
 sometimes i want to write code like this:
 ```javascript
 var TestView;
